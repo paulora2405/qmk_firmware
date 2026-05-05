@@ -1,6 +1,6 @@
 {
   "keyboard_name": "Redox Wireless",
-  "manufacturer": "Mattia Dal Ben",
+  "manufacturer": "Paulo Albuquerque",
   "maintainer": "qmk",
   "usb": {
     "vid": "0x4D44",
